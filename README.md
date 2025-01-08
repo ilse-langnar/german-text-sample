@@ -1,2 +1,9 @@
-# german-text-sample
-wqdqdw
+League of Legends (kurz: LoL oder nur League) ist ein vom US-amerikanischen Riot Games entwickeltes und betriebenes Multiplayer-Online-Battle-Arena-Computerspiel (MOBA), das am 27. Oktober 2009 für Windows und am 1. März 2013 für macOS veröffentlicht wurde. Es erschien als Free-to-play-Titel und wurde zeitweise von etwa 100 Millionen Spielern monatlich gespielt.[1]
+
+Das Spielprinzip ist von Defense of the Ancients inspiriert, einer Mod für Warcraft III. Im klassischen Spielmodus von League of Legends treten zwei Teams aus je fünf Spielern gegeneinander an. Jeder Spieler steuert eine Spielfigur aus der Vogelperspektive über das quadratische Spielfeld und versucht, die eigene Hälfte des Spielfelds zu verteidigen. Ziel des Spiels ist die Zerstörung des sogenannten Nexus innerhalb der gegnerischen Basis in der der eigenen Basis gegenüberliegenden Ecke des Spielfelds. Innerhalb eines etwa 20- bis 50-minütigen Spiels gewinnen die Spielfiguren stetig an Stärke und Ausrüstung dazu.
+
+League of Legends ist eine beliebte Disziplin im E-Sport. Mit einer internationalen Fan- und Spielerszene sowie neun Dachligen und zahlreichen Regionalligen wird das Spiel regelmäßig als weltweit größter E-Sport bezeichnet. Turniere wie die jährlich stattfindende League of Legends World Championship wurden teilweise von über 100 Millionen Zuschauern verfolgt.
+
+Spielvorbereitung
+Vor Beginn einer Runde werden dem Spieler von einem Matchmaking-System vier Mit- und fünf Gegenspieler zugeteilt. Alternativ können Mitspieler manuell gesucht oder aus der Freundesliste eingeladen werden. Anschließend erfolgt die Champion-Auswahl. Hier wählt jeder Spieler einen aus über 160[2] Champions aus, eine Spielfigur mit individuellen Fähigkeiten, Stärken und Schwächen. Je nach Spielmodus wählen entweder alle Spieler gleichzeitig oder jeweils abwechselnd pro Team. Im zweiten Modus hat jeder Spieler die Möglichkeit, einen Champion zu sperren, der dann von keinem Team mehr gewählt werden kann. Unabhängig vom gewählten Champion werden zwei Beschwörerzauber gewählt. Zudem kann der eigene Champion mit Runen und diversen Fertigkeitsverbesserungen an die individuelle Spielweise angepasst werden.
+
